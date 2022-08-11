@@ -13,7 +13,7 @@ No. | Question
 4 | What is the average salary for data science careers?
 5 | Do bigger companies have a higher salary on average?
 6 | How large are data science companies on average?
-7 | Does experience level affect the size of the company that you work at?
-8 | Where are most companies located?
+7 | Do most jobs require a lot of experience?
+8 | How does company size affect the remote ratio?
 9 | Does being remote affect the salary?
-10 | Which countries have the largest companies?
+10 | Does the average salary go up over the years?
